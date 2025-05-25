@@ -3,7 +3,7 @@
 ## Contributors
 - Alice: Loves hiking and photography.
 - Bob: Enjoys reading sci-fi and coding.
-- NAME: AGE
+- Tamar Weiss: 24yo
 
 ## Fun Facts about Git
 - Git was created by Linus Torvalds in 2005.
